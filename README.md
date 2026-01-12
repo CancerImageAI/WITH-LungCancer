@@ -25,4 +25,12 @@ The framework is designed for **multi-center retrospective analysis** and emphas
 - SimpleITK  
 - PyRadiomics  
 - scikit-learn  
-- pandas 
+- pandas
+
+
+@article{HabitatNSCLC2026,
+  title   = {Habitat-based CT radiomics profiling spatial–temporal heterogeneity in resectable NSCLC predict pathological response to neoadjuvant chemoimmunotherapy: a multi-center study},
+  author  = {Gong, Jing and et al.},
+  journal = {TBD},
+  year    = {2026}
+}
