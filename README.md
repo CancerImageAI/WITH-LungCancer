@@ -16,3 +16,13 @@ The code supports the complete pipeline for **habitat-based radiomics analysis**
 The framework is designed for **multi-center retrospective analysis** and emphasizes **reproducibility and robustness**.
 
 ---
+## Requirements
+
+- Python ≥ 3.8  
+- PyTorch  
+- NumPy  
+- SciPy  
+- SimpleITK  
+- PyRadiomics  
+- scikit-learn  
+- pandas 
