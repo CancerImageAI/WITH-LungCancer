@@ -35,6 +35,7 @@ The framework is designed for **multi-center retrospective analysis** and emphas
 @article{HabitatNSCLC2026,
   title   = {Habitat-based CT radiomics profiling spatial–temporal heterogeneity in resectable NSCLC predict pathological response to neoadjuvant chemoimmunotherapy: a multi-center study},
   author  = {Qin Peng and et al.},
-  journal = {TBD},
-  year    = {2026}
+  journal = {npj Precision Oncology},
+  year    = {2026},
+  doi     = {https://doi.org/10.1038/s41698-026-01388-z}
 }
