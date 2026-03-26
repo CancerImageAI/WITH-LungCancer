@@ -106,7 +106,7 @@ if __name__ == '__main__':
     PatientIDs = [str(num).strip().split('.')[0] for num in PatientIDs]
     
     n_mask_slic = 100
-    cluster = 6
+    cluster = 5
     SaveRoot = '../../../Dataset-1x1x1/SHPH'
     if not os.path.exists(SaveRoot):
         os.mkdir(SaveRoot)
